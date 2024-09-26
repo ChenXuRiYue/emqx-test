@@ -5,15 +5,23 @@
 
 1. **安装以及使用wsl**
 
-![img](https://gwtoui6x548.feishu.cn/space/api/box/stream/download/asynccode/?code=MWQxMzQxOGRhNWI3YTlmZDk0ZTkxMzkwZmM2Mjc2Y2RfT3hPR01CM29lem8xcTUwdGpUWVJjSk1CZUVBanByd0hfVG9rZW46R0pVWmJvenFob3I4Y1R4aXlTdWNXSUJmbjdXXzE3MjczNjYwODU6MTcyNzM2OTY4NV9WNA)
+![image-20240927010033460](./assets/image-20240927010033460.png)
 
 2. 安装MQTT
 
-<img src="https://gwtoui6x548.feishu.cn/space/api/box/stream/download/asynccode/?code=OTRiYTM3OWQ3MTZlMGY1MmZiYTY4NDYxZDQzOGUzMjFfUTR4dVJwVEk1Wk1Pa25yRnlhTnQ3SUFZT3Q0TXpVRWFfVG9rZW46TUpzMmI4emQzb05xZ0N4VkluZ2NOdEhpbmJmXzE3MjczNjYxMTU6MTcyNzM2OTcxNV9WNA" alt="img" style="zoom:50%;" />
+![image-20240927010051310](./assets/image-20240927010051310.png)
+
+
 
 3. 启动MQTT 可视化平台
 
-<img src="https://gwtoui6x548.feishu.cn/space/api/box/stream/download/asynccode/?code=YzkyMGQyMGIwMjBhZGE2ZmI4ZDFhMjg0MDA1YTFlYjhfSkRLeHdJVkFBaXVUTkxRTHQ5MFZCajF0UkptSEVHUGlfVG9rZW46Ukk2VGJweDM1b2o2Vnl4bFdwNWN5SjVXbnRkXzE3MjczNjYxODY6MTcyNzM2OTc4Nl9WNA" alt="img" style="zoom:50%;" />
+![image-20240927010111891](./assets/image-20240927010111891.png)
+
+![image-20240927010132148](./assets/image-20240927010132148.png)
+
+![image-20240927010146528](./assets/image-20240927010146528.png)
+
+![image-20240927010228406](./assets/image-20240927010228406.png)
 
 ## 接口设计
 
